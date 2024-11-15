@@ -1,5 +1,7 @@
 > Appwrite Init has concluded! You can check out all the latest announcements [on our Init website](https://appwrite.io/init) 🚀
 
+This is so cool!
+
 <br />
 <p align="center">
     <a href="https://appwrite.io" target="_blank"><img src="./public/images/banner.png" alt="Appwrite Logo"></a>
